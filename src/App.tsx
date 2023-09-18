@@ -14,7 +14,7 @@ function App() {
     <>
       <main>
         {' '}
-        <h1>Cats app ---- live coding interview for a junior position</h1>
+        <h1>Cats app ---- live coding interview for a React junior position</h1>
         <button onClick={handleClick}>Get new fact</button>
         {fact && <p>{fact}</p>}
         {catImageUrl && (
