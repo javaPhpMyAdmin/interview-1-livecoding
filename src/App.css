@@ -1,0 +1,24 @@
+
+body{
+  justify-content:center;
+  align-items:center;
+}
+
+main {
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+  margin:0 auto;
+  max-width= 800px;
+  font-family:system-ui;
+}
+
+h1{
+  color:white
+}
+
+img {
+  width:330px;
+  height:340px;
+}
