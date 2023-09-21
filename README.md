@@ -1,9 +1,12 @@
-Prueba técnica para Juniors y Trainees de React en Live Coding.
+Prueba técnica para Juniors de React en Live Coding.
+
 APIs:
 
-Facts Random: https://catfact.ninja/fact
+----Random Facts: https://catfact.ninja/fact
 
-Imagen random: https://api.thecatapi.com/v1/images/search
+----Random Image: https://api.thecatapi.com/v1/images/search
+
+TASKS:
 
 Recupera un hecho aleatorio de gatos de la primera API
 
@@ -15,4 +18,4 @@ Hacer refactor de servicios.
 
 Mostrar como utilizar custom hooks.
 
-Agregar un test e2e.
+Agregar un test e2e usando playwright. 

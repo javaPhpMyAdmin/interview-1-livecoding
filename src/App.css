@@ -12,6 +12,7 @@ main {
   margin:0 auto;
   max-width: 800px;
   font-family:system-ui;
+  text-align:center
 }
 
 h1{
